@@ -1,10 +1,7 @@
-[![](https://visitcount.itsvg.in/api?id=requindelanight&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=69BCC4&center=true&vCenter=false&width=450&height=80&lines=>+Hello+World+!)](https://git.io/typing-svg)
-
-</div>
+[![visitcount](https://visitcount.itsvg.in/api?id=requindelanight&icon=0&color=0)](https://visitcount.itsvg.in)
+[![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://x.com/florianppn)
+[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
+[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:pepinflorian817@gmail.com)
 
 <h2> 💡​ General Information </h2>
 
@@ -25,17 +22,12 @@
 </div>
   
 <h2> 🔧 Tools & others </h2>
-
-<div align="center">
   
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-</div>
 
-## 📊 GitHub Stats​
-
-|                                      image                                                                                                          |                                Auteur / Licence                                                          |
+|                                      Statistiques GitHub                                                                                            |                               Les langages les plus utilisés                                             |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
-|![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false) |![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)|
+|![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false) |![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)      |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
