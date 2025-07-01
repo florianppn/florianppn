@@ -2,7 +2,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:pepinflorian817@gmail.com)
 
-[![profil](https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2e5f3.gif)](https://fr.pinterest.com/pin/773352567260066100/)
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2e5f3.gif">
 
 ## 💡​ Profil
 
