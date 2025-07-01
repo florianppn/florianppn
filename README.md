@@ -1,4 +1,3 @@
-[![visitcount](https://visitcount.itsvg.in/api?id=requindelanight&icon=0&color=0)](https://visitcount.itsvg.in)
 [![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://x.com/florianppn)
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:pepinflorian817@gmail.com)
