@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2e5f3.gif)](https://rishavchanda.io)
+![MasterHead](https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2e5f3.gif)
 
 [![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://x.com/florianppn)
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
