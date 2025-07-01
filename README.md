@@ -2,6 +2,8 @@
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:pepinflorian817@gmail.com)
 
+[![profil](https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2e5f3.gif)](https://fr.pinterest.com/pin/773352567260066100/)
+
 ## 💡​ Profil
 
 👋 Bonjour ! Je suis étudiant en informatique. Je prévois d'ajouter mes petits projets pour l'année !
@@ -26,6 +28,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -34,8 +37,10 @@
 
 ## 📊​ ​Statistiques GitHub
 
-|                                      Mes statistiques                                                                                           |                              |                |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-|![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)|![](https://nirzak-streak-stats.vercel.app/?user=florianppn&theme=shadow_blue&hide_border=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)|
+|Mes statistiques|    |    |
+|:----:|:----:|:----:|
+|![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)|
+![](https://nirzak-streak-stats.vercel.app/?user=florianppn&theme=shadow_blue&hide_border=true)|
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)|
 
 <!-- Créé avec l'aide de GPRM ( https://gprm.itsvg.in ) -->
