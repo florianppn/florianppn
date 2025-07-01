@@ -32,14 +32,10 @@
 
 </div>
 
-<h2> 📊 GitHub Stats​ </h2>
+## 📊 GitHub Stats​
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=florianppn&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianppn&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
+|                                      image                                                                                                          |                                Auteur / Licence                                                          |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
+|![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)|![](https://github-readme-streak-stats.herokuapp.com/?user=florianppn&theme=shadow_blue&hide_border=false)|
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
