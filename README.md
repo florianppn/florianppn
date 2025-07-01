@@ -1,9 +1,9 @@
 [![ArtStation_HQ](./wallpaper.gif)](https://www.pinterest.com/ArtStation_HQ/)
 
 ![counter](https://komarev.com/ghpvc/?username=florianppn&label=Profile%20views&color=0e75b6&style=flat)
-[![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://x.com/florianppn)
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
-[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:pepinflorian817@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/florianppn)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pepinflorian817@gmail.com) 
 
 ## 💡​ Profil
 
@@ -32,6 +32,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## 🏆​ Trophées GitHub
 ![](https://github-profile-trophy.vercel.app/?username=florianppn&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
