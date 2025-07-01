@@ -2,15 +2,11 @@
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:pepinflorian817@gmail.com)
 
-<h2> 💡​ General Information </h2>
+## 💡​ Profil
 
-<div align="center">
+👋 Bonjour ! Je suis étudiant en informatique. Je prévois d'ajouter mes petits projets pour l'année !
 
-👋 Good morning \! I am a computer science student. I plan to add my little projects for the year !
-
-💬 To discuss or ask me questions, click <a href="https://github.com/requindelanight/requindelanight/discussions/">here</a> !
-
-</div>
+💬 Si tu veux discuter ou me poser des questions, clique <a href="https://github.com/requindelanight/requindelanight/discussions/">ici</a> !
 
 ## 💻️ Langages de programmation
 
