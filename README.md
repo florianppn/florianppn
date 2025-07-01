@@ -9,7 +9,7 @@
 
 👋 Bonjour ! Je suis étudiant en informatique. Je prévois d'ajouter mes petits projets pour l'année !
 
-💬 Si tu veux discuter ou me poser des questions, clique <a href="https://github.com/requindelanight/requindelanight/discussions/">ici</a> !
+💬 Si tu veux discuter ou me poser des questions, clique [ici](https://github.com/requindelanight/requindelanight/discussions/) !
 
 ## 💻️ Langages
 
