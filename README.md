@@ -37,10 +37,8 @@
 
 ## 📊​ ​Statistiques GitHub
 
-|Mes statistiques|    |    |
-|:----:|:----:|:----:|
-|![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)|
-![](https://nirzak-streak-stats.vercel.app/?user=florianppn&theme=shadow_blue&hide_border=true)|
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)|
+|                                Mes statistiques                                |                                                                          |                                                              |
+|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------:|
+|![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)|![](https://nirzak-streak-stats.vercel.app/?user=florianppn&theme=shadow_blue&hide_border=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)|
 
 <!-- Créé avec l'aide de GPRM ( https://gprm.itsvg.in ) -->
