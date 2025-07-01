@@ -36,6 +36,6 @@
 
 |                                      image                                                                                                          |                                Auteur / Licence                                                          |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
-|![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)|![](https://github-readme-streak-stats.herokuapp.com/?user=florianppn&theme=shadow_blue&hide_border=false)|
+|![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false) |![](https://nirzak-streak-stats.vercel.app/?user=florianppn&theme=shadow_blue&hide_border=true)           |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
