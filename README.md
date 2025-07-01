@@ -1,4 +1,4 @@
-[![ArtStation_HQ](https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2e5f3.gif)](https://www.pinterest.com/ArtStation_HQ/)
+[![ArtStation_HQ](./wallpaper.gif)](https://www.pinterest.com/ArtStation_HQ/)
 
 [![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://x.com/florianppn)
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
