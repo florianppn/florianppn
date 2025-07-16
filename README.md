@@ -38,7 +38,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## 🏆​ Trophées GitHub
-![](https://github-profile-trophy.vercel.app/?username=florianppn&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=florianppn&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊​ ​Statistiques GitHub
 
