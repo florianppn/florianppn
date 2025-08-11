@@ -7,7 +7,7 @@
 
 ## 💡​ Profil
 
-👋 Bonjour ! Je suis étudiant en informatique. Je prévois d'ajouter mes petits projets pour l'année !
+👋 Bonjour ! Je suis étudiant en informatique. Je prévois d'ajouter mes petits projets de l'année !
 
 💬 Si tu veux discuter ou me poser des questions, clique [ici](https://github.com/requindelanight/requindelanight/discussions/) !
 
