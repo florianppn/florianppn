@@ -3,45 +3,68 @@
 ![counter](https://komarev.com/ghpvc/?username=florianppn&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
 
-## 💡​ Profil
+---
 
-👋 Bonjour ! Je suis étudiant en informatique. Je prévois d'ajouter mes petits projets de l'année !
+```
+ ██████╗ ██████╗ ██████╗ ███████╗    ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
+██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
+██║     ██║   ██║██║  ██║█████╗      ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
+██║     ██║   ██║██║  ██║██╔══╝      ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
+╚██████╗╚██████╔╝██████╔╝███████╗    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
+ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝     ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
+```
 
-💬 Si tu veux discuter ou me poser des questions, clique [ici](https://github.com/requindelanight/requindelanight/discussions/) !
+---
 
-## 💻️ Langages
+## `> whoami`
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+👾 Étudiant en informatique — Je construis des trucs, je les casse, je recommence.  
+🔗 Retrouve mes projets ici au fur et à mesure de l'année.  
+💬 Une question ? → [Discussions](https://github.com/requindelanight/requindelanight/discussions/)
 
-## 💾 ​ Bases de données
+---
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## `> stack --core`
+
+### ⚙️ Backend
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-%23bacf29.svg?style=for-the-badge&logo=symfony&logoColor=black)
+
+### 🗄️ Bases de données
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-## 🔧 Autres technologies
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### 🛠️ DevOps & outils
 
-## 🏆​ Trophées GitHub
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## `> github --stats`
+
+|                                                                                |                                                                                                    |                                                                                                                                                                       |
+|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=florianppn&theme=shadow_blue&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
+
+---
+
+## `> trophy --display`
+
 ![](https://github-profile-trophy.vercel.app/?username=florianppn&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## 📊​ ​Statistiques GitHub
+---
 
-|                                Mes statistiques                                |                                                                          |                                                              |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------:|
-|![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)|![](https://nirzak-streak-stats.vercel.app/?user=florianppn&theme=shadow_blue&hide_border=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)|
-
-<!-- Créé avec l'aide de GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <sub>⚡ "First, solve the problem. Then, write the code." — John Johnson</sub>
+</div>
