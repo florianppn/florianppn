@@ -59,9 +59,9 @@
 
 ---
 
-## `> trophy --display`
+## `> activity --graph`
 
-![](https://github-profile-trophy.vercel.app/?username=florianppn&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-activity-graph.vercel.app/graph?username=florianppn&theme=react-dark&hide_border=true&area=true)
 
 ---
 
