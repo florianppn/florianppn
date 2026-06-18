@@ -51,7 +51,7 @@
 
 ---
 
-## `> notions --in-progress`
+## `> Autres notions`
 
 > Notions explorées, pas encore maîtrisées
 
