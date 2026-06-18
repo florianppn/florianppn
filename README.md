@@ -51,7 +51,7 @@
 
 ---
 
-## `> Autres notions`
+## `> notions --exploring`
 
 > Notions explorées, pas encore maîtrisées
 
