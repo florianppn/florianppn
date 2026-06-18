@@ -19,8 +19,7 @@
 ## `> whoami`
 
 👾 Étudiant en informatique — Je construis des trucs, je les casse, je recommence.  
-🔗 Retrouve mes projets ici au fur et à mesure de l'année.  
-💬 Une question ? → [Discussions](https://github.com/requindelanight/requindelanight/discussions/)
+🔗 Retrouve mes projets ici au fur et à mesure de l'année.
 
 ---
 
