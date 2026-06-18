@@ -18,7 +18,7 @@
 
 ## `> whoami`
 
-👾 Étudiant en informatique — Je construis des trucs, je les casse, je recommence.  
+👾 Étudiant en informatique => Je construis des trucs, je les casse, je recommence.  
 🔗 Retrouve mes projets ici au fur et à mesure de l'année.
 
 ---
