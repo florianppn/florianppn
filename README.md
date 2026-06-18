@@ -57,6 +57,7 @@
 
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Minikube](https://img.shields.io/badge/Minikube-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-%230052CC.svg?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
