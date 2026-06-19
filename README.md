@@ -9,7 +9,7 @@
 
 ## `> whoami`
 
-👾 Étudiant en informatique => Je construis des trucs, je les casse, je recommence.  
+👾 Étudiant en Génie de l'Informatique Logicielle.
 🔗 Retrouve mes projets ici au fur et à mesure de l'année.
 
 ## `> stack --core`
