@@ -1,7 +1,5 @@
 [![ArtStation_HQ](./wallpaper.gif)](https://www.pinterest.com/ArtStation_HQ/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
-
 ---
 
 ```
