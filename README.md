@@ -1,6 +1,5 @@
 [![ArtStation_HQ](./wallpaper.gif)](https://www.pinterest.com/ArtStation_HQ/)
 
-![counter](https://komarev.com/ghpvc/?username=florianppn&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
 
 ---
@@ -66,15 +65,9 @@
 
 ## `> github --stats`
 
-|                                                                                |                                                                                                    |                                                                                                                                                                       |
-|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![](https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=florianppn&theme=shadow_blue&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
-
----
-
-## `> activity --graph`
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=florianppn&theme=react-dark&hide_border=true&area=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" />
+</div>
 
 ---
 
