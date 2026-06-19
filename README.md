@@ -7,14 +7,10 @@
  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝     ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
 ```
 
----
-
 ## `> whoami`
 
 👾 Étudiant en informatique => Je construis des trucs, je les casse, je recommence.  
 🔗 Retrouve mes projets ici au fur et à mesure de l'année.
-
----
 
 ## `> stack --core`
 
@@ -41,8 +37,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
 ## `> notions --exploring`
 
 > Notions explorées, pas encore maîtrisées
@@ -55,15 +49,11 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
----
-
 ## `> github --stats`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" />
 </div>
-
----
 
 <div align="center">
   <sub>⚡ "First, solve the problem. Then, write the code." — John Johnson</sub>
