@@ -47,12 +47,6 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-## `> github --stats`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=florianppn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" />
-</div>
-
 <div align="center">
   <sub>⚡ "First, solve the problem. Then, write the code." — John Johnson</sub>
 </div>
