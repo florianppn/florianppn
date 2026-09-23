@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON-PROFIL/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:florian.pepin@univ-rouen.fr"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -33,12 +33,6 @@ Le génie logiciel dans son ensemble m'intéresse : architecture, bonnes pratiqu
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 </p>
 
-**Qualité & Tests**
-<p>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
-  <!-- Ajoute ici les outils QA que tu utilises : Selenium, Cypress, SonarQube, Postman, etc. -->
-</p>
-
 **Outils**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -55,20 +49,7 @@ Le génie logiciel dans son ensemble m'intéresse : architecture, bonnes pratiqu
 
 ---
 
-### 📌 Projets phares
-
-- **[Nom du projet 1](lien-vers-le-repo)** — courte description (1 ligne)
-- **[Nom du projet 2](lien-vers-le-repo)** — courte description (1 ligne)
-- **[Nom du projet 3](lien-vers-le-repo)** — courte description (1 ligne)
-
----
-
 ### 📫 Me contacter
 
-- LinkedIn : [ton profil](https://www.linkedin.com/in/TON-PROFIL/)
-- Email : ton.email@exemple.com
-
-<!--
-### 📊 Stats GitHub (optionnel)
-<img src="https://github-readme-stats.vercel.app/api?username=TON-PSEUDO&show_icons=true&theme=default" />
--->
+- LinkedIn : [florianppn](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
+- Email : florian.pepin@univ-rouen.fr
