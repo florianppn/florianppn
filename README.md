@@ -29,16 +29,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
----
-
-### 🚀 Ce sur quoi je travaille en ce moment
-
-- 🎓 Master 2 GIL — Université de Rouen Normandie
-- 🔭 [Projet en cours ou stage — à compléter]
-- 🌱 J'approfondis actuellement [ex: les tests automatisés, l'architecture hexagonale, etc.]
-
----
-
 ### 📫 Me contacter
 
 - LinkedIn : [florianppn](https://www.linkedin.com/in/florian-p%C3%A9pin-7a4862359)
